@@ -1,16 +1,12 @@
-#app{
-  height:90vh;
-}
-.night{
-  background-color: black;
-  color:white;
+#app {
+	justify-content: flex;
+	text-align: center;
+	height: 100vh;
 }
 
-#swap{
-  outline:0;
+#ptag {
+	color: rgb(0,256,256,256);
 }
-
-.button_night{
-  background-color:blue;
-  color:white; 
+.night {
+	background: rgb(0,0,0,1);
 }
